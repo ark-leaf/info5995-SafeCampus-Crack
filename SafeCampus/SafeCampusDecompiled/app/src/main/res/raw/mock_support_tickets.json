@@ -1,0 +1,14 @@
+[
+  {
+    "reference": "SC-10042",
+    "category": "IT_HELP",
+    "status": "SUBMITTED",
+    "summary": "Fictional Wi-Fi login question"
+  },
+  {
+    "reference": "SC-10043",
+    "category": "CAMPUS_CARD",
+    "status": "REVIEWED",
+    "summary": "Mock campus access sync request"
+  }
+]

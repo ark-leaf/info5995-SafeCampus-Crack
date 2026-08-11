@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Library entrance update",
+    "category": "facilities",
+    "message": "West entrance closed for a fictional safety drill."
+  },
+  {
+    "title": "Cyber safety workshop",
+    "category": "learning",
+    "message": "Room B204 hosts a mock password safety session."
+  },
+  {
+    "title": "Shuttle route notice",
+    "category": "transport",
+    "message": "Route C delayed by simulated roadworks near the sports centre."
+  }
+]

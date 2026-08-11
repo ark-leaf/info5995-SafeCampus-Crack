@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="campus_gold">#e3a22b</color>
+    <color name="campus_navy">#19314d</color>
+    <color name="campus_surface">#f5f7fa</color>
+    <color name="campus_teal">#0b7a75</color>
+    <color name="campus_text">#1d2530</color>
+</resources>

@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.12.2
+SHA-256-Digest-Manifest: 4O483Bs73763mUoyI0myUUDdjq5j6Ko787iX2V473PY=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 5vAwnobYlbIXz4smhvFYF36/NCUWbd4zI/fLbOOceoA=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: XcO4vJoBTdujzKdMKmXHQNqpVUe4m01FUIzJpC2n83Q=
+
+Name: classes.dex
+SHA-256-Digest: p/sFZ+O8Fqa2i8NlxYrrWPrW4GUrHf84WjOUCd5Htyw=
+
+Name: res/drawable/ic_campus_alert.xml
+SHA-256-Digest: FR13IKfOXhU03axei6rbZhLE/x4v2NfPi+725mN2t/I=
+
+Name: res/drawable/ic_campus_card.xml
+SHA-256-Digest: h9OIFdxac43XKNwCjyQQjigqsLkWSQhBNwtb5sVoq5Q=
+
+Name: res/layout/activity_about.xml
+SHA-256-Digest: tZxbHfQMHvwt/ntZwNuhHwpCkQDCsU8IYQC4Z1Z79g0=
+
+Name: res/layout/activity_alerts.xml
+SHA-256-Digest: Tk12wv/H1jkhaDwHxC59AZtj6t5cdZFzV3JLpCdRpS8=
+
+Name: res/layout/activity_dashboard.xml
+SHA-256-Digest: IR5G7x2/QFt2uiSyQcXixL4guhDnMlOhH3OzspBiPIg=
+
+Name: res/layout/activity_login.xml
+SHA-256-Digest: I/s+DwV+Py4pu6Op1xgL1vjB18nBrCC28P35uXHpKRI=
+
+Name: res/layout/activity_profile.xml
+SHA-256-Digest: ULDH+aE+PbNqDoaCWu+2Ir7vXFpSauxFjvxDnqGubOI=
+
+Name: res/layout/activity_recovery.xml
+SHA-256-Digest: dM3vkHNNfjjVS2u/gWS6VTy5g0EZaG5Y9OgzjZ3vPxk=
+
+Name: res/layout/activity_settings.xml
+SHA-256-Digest: oN9k8LB9of5rPeTrX4r6PA5CGhBprJHmHEnSyxLDZIY=
+
+Name: res/layout/activity_support_request.xml
+SHA-256-Digest: pxF6EfO7NH3GVRguPCMwh/nhBtdpla2///8TlHJh3tE=
+
+Name: res/layout/activity_sync_access.xml
+SHA-256-Digest: DsQaogpodf+VczdyXIj9+jzksLp5Sbw+axjC+UDOYNU=
+
+Name: res/layout/list_item_alert.xml
+SHA-256-Digest: ZR9CU6Q31PBxkucdC/RuP5QJC5T++UFJwsnI+WBLy2A=
+
+Name: res/layout/list_item_ticket.xml
+SHA-256-Digest: KR5kho1+T6tjLDiqWslc42GkSu/sNl1q2zDdrApWBBQ=
+
+Name: res/layout/view_info_card.xml
+SHA-256-Digest: cbnlWhm/7DJ/dp8UlRQ8vMexWJhnDElU89yYMt1d9aw=
+
+Name: res/menu/dashboard_menu.xml
+SHA-256-Digest: Biwu7pzEllfARFBa4oItilxtEdWdH+mqE4comJC6I0U=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.xml
+SHA-256-Digest: z2kGu3YiWrw9I9euzK/og/S/EtB0m3+PSInabQ9TCto=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.xml
+SHA-256-Digest: 1ancuzt7H0UCeIT60t86WYCQsp32Szq/GYncPMyx+HE=
+
+Name: res/raw/mock_alerts.json
+SHA-256-Digest: PH21fmtXNqkcwR22gLF74BiAfmTnLHKueWBQ1YrFKR4=
+
+Name: res/raw/mock_profile.json
+SHA-256-Digest: TVStpnCDVuf83fq+KCXQZaOkKVQeN6HW7sDWAjPEh8A=
+
+Name: res/raw/mock_support_tickets.json
+SHA-256-Digest: CxTqrT8Z3jHuDgmQy7QMdDRt673EO4tAL644Ww6Fn58=
+
+Name: res/xml/network_security_config.xml
+SHA-256-Digest: Pm57xI7/ZHKE7iXyfr6bdI/HTAkB5+3A1IOdRTkpJ28=
+
+Name: res/xml/preferences.xml
+SHA-256-Digest: 132q479ikVr46n48sFnIHjI0sWyNLBMJ1ZlWT4FsuIc=
+
+Name: resources.arsc
+SHA-256-Digest: 5E+C7jrZPmDQiU/poN8iR3em+j/t175HX0oB2fXc0F4=
+
