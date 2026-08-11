@@ -1,0 +1,82 @@
+# -----------------------------
+# IntelliJ IDEA / Android Studio
+# -----------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# -----------------------------
+# Gradle build files
+# -----------------------------
+.gradle/
+build/
+/*/build/
+
+# -----------------------------
+# Local configuration files
+# -----------------------------
+# local.properties contains absolute paths to the Android SDK/NDK
+local.properties
+
+# -----------------------------
+# Built application files
+# -----------------------------
+*.apk
+*.aab
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated directories
+bin/
+gen/
+out/
+
+# -----------------------------
+# Keystore files
+# -----------------------------
+# Do not commit your keystores or key aliases!
+*.jks
+*.keystore
+
+# -----------------------------
+# Google Services
+# -----------------------------
+# Keep API keys and Firebase configurations local if they are sensitive
+google-services.json
+
+# -----------------------------
+# NDK
+# -----------------------------
+obj/
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
